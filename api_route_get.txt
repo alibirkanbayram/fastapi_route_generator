@@ -1,0 +1,2 @@
+@app.delete("/deleteWorkerbyWorkerId/{worker_id}", tags=["Worker"])
+@app.put("/updateWorker/", tags=["Worker"])

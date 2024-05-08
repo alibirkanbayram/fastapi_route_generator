@@ -1,0 +1,2 @@
+static const String deleteWorkerbyWorkerId = "https://test.com/api/v1/deleteWorkerbyWorkerId/";
+static const String updateWorker = "https://test.com/api/v1/updateWorker/";
